@@ -1,7 +1,5 @@
 package com.esaudev.materialcalculator.domain
 
-import kotlin.math.exp
-
 class ExpressionWriter {
 
     var expression = ""
