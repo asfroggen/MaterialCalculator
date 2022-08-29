@@ -1,4 +1,4 @@
-# MaterialCalculator
+# Material3 Calculator
 En este repositorio implementaremos una calculadora con Jetpack Compose y Material3, además se usarán distintos pipelines de CI/CD con Bitrise para 
 ejecutar pruebas unitarias y de integración (UI) de manera automática.
 
