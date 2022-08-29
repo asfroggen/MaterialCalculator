@@ -1,7 +1,7 @@
 package com.esaudev.materialcalculator.domain
 
 /**
- * Uses the following gramar
+ * Uses the following grammar
  * expression: term | term + term | term - term
  * term: factor | factor * factor | factor / factor
  * factor: number | (expression) | + factor | - factor
